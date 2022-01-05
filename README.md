@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my Diary website (and misc.)
 - 🌱 I’m currently learning Computer Science @ University of Windsor
 - 👯 I’m looking to collaborate on anything, send me an email or Discord message.
-- 📫 How to reach me: (Discord, Extreme#4711), (Email, razazain2002@gmail.com)
+- 📫 How to reach me: (Discord, Extreme#4711), (Email, me@zainraza.net)
 - ⚡ Fun fact: I'm a year younger than the class I go to school with!
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zainaraza43&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/zainaraza43/github-readme-stats)
