@@ -6,5 +6,5 @@
 Just a guy trying to learn more about the Android ecosystem. 
 
 - 👯 I’m looking to collaborate on a cool Android project, send me an email or Discord message.
-- 📫 How to reach me: (Discord, zain_raza), (Email, me@zainraza.net)
+- 📫 How to reach me: (Discord, zain_raza), (Email, razazain2002@gmail.com)
 
